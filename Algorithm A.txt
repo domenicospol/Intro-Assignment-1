@@ -1,0 +1,7 @@
+A) Convert a given temperature from Celsius in Fahrenheit.
+
+1)Input number measured in Celsius
+2)Set i to value in degrees Celsius
+3)Multiply i by 1.8
+4)Add 32 to value of i
+5)Stop

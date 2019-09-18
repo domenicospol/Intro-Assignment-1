@@ -1,0 +1,11 @@
+C) Select the greatest element in a list of numbers
+
+1)Get list of numbers
+2)Set value of max to 0
+3)Check each number in list.
+     If number is greater then max
+     Set value of max to new number
+  Else
+    Repeat steps 2 to 3
+4)Stop
+

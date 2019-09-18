@@ -1,0 +1,8 @@
+B) Decide if a given number is even or odd.
+
+1)Get value of number
+2)If number is evenly divisible by 2
+       Print message 'Number is even'
+   Else
+      Print message 'Number is odd'
+3) Stop
